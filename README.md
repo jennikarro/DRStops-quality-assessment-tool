@@ -6,3 +6,5 @@ The tool consists of a Python Jupyter Notebook file that validates the attribute
 An example of the map that was created in the thesis can be found online here: [Digiroad Stops QI Map](https://jennikarro.github.io/DRStops-QI-map.html)
 
 The code was created using local data files, so in order to utilize the tool as it is you will need to either download your own data files. In the thesis work OSM data was downloaded via QGIS plugin [QuickOSM](https://github.com/3liz/QuickOSM) and Finnish bus stop data can be acquired from [The Finnish Transport Agency](https://suomenvaylat.vayla.fi/?lang=en) You are of course welcome the edit the code as you wish and import the data in some other way, or even utilize the tool for your own works. 
+
+As a final disclaimer: The tool will not be updated in the futue as of now, so used syntax, functions etc. may expire.
